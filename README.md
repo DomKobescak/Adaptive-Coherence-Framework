@@ -27,9 +27,23 @@ python acf_core.py --demo
 - `docs/ACF_v1.3_RCB_Preprint.pdf` — archived preprint corresponding to the DOI.
 
 ## Citation
+
 If you use this work, please cite:
-```
-Kobeščak, D. (2025). Adaptive Coherence Framework (ACF v1.3 RC-B). Zenodo. https://doi.org/10.5281/zenodo.17515313
+
+**APA**
+> Kobeščak, D. (2025). *Adaptive Coherence Framework (ACF v1.3 RC-B)* [Software and preprint]. Zenodo. https://doi.org/10.5281/zenodo.17515313
+
+**BibTeX**
+```bibtex
+@software{kobescak_2025_acf,
+  author    = {Domagoj Kobeščak},
+  title     = {Adaptive Coherence Framework (ACF v1.3 RC-B)},
+  year      = {2025},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.17515313},
+  url       = {https://doi.org/10.5281/zenodo.17515313}
+}
+
 ```
 
 ---
