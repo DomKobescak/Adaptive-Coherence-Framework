@@ -1,0 +1,5 @@
+regime,baseline_collapse,acf_collapse,improvement_factor
+noise,0.42,0.07,6.0
+whiplash,0.31,0.05,6.2
+over-coupling,0.48,0.07,6.86
+fragmentation,0.54,0.09,6.0
